@@ -1,0 +1,11 @@
+Pyzarra para Virtual Box
+
+Virtual Box es una maquina virtual de SUN que corre tanto en linux como en windows y permite instalar y probar sistemas operativos, crear discos, usar los perifericos y la red de la pc, como si se tratara de una PC virtual.
+
+Bajar Virtual Box 
+
+*download (http://www.virtualbox.org/wiki/Downloads)
+
+Pyzarra_v030409_VBox
+
+*donwload 
