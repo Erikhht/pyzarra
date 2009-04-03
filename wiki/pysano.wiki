@@ -29,6 +29,16 @@ Inteligencia
 1 Ñandu, seguimiento de la pasarela, control de sentido de movimiento, velocidad, elección de la pasarela,
 elección de teletransportación u ocultarece, reconocimiento que se le arrojo un objeto, decision en consecuencia de la aproximación de este objeto.
 
+Download
+pysano_v03042009.rar - download ()
+Incluye movimiento con mouse, detector de colisiones y uso de clases propias
+
+pysano_211209.rar - download (http://www.robotia.com.ar/pyzarra/prg/pysano/pysano_211209.rar)
+
+Versión basica con imagenes a modo de ejemplo
+
+
+
 
 Referencias Python:
 
