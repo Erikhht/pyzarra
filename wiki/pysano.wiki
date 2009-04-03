@@ -35,7 +35,13 @@ Referencias Python:
 Bajar la iso o el usb de Pyzarra que contiene la versión
 
 http://www.losersjuegos.com.ar/referencia/videos/python_y_pygame_cafeconf_2007/python_y_pygame_cafeconf_2007.php
+
 http://es.wikipedia.org/wiki/Python
+
 http://www.python.com.ar/moin (página argentina)
+
 http://www.python.org/download/ (baje el python para windows con pygame y funcion ok en WVista)
+
 http://www.pygame.org/news.html
+
+http://iagrupo.wikispaces.com/PYSANO+V1+Python (página original del proyecto)
