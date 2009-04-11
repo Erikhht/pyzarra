@@ -9,11 +9,16 @@ Instalar pyzarra en windows vista:
 2 Segundo te va a crear en la capeta de tu usuario las carpetas:
   .Virtual
       HardDisk
+
       Machine
+
       
 3 Bajar y descomprimir estas carpetas en tu disco rigido
+
 4 Copias el contenido de esta carpetas a las carpetas del mismo nombre de virtual box
+
 5 Crear un nueva virtual box pero usando la existente
+
 
 
 *Bajar Virtual Box de Sun (free)
@@ -21,5 +26,13 @@ download (http://www.virtualbox.org/wiki/Downloads)
 
 *Bajar Archivos de Pyzarra para Virtual Box
 Pyzarra_v030409_VBox
+
+donwload ()
+
+
+*Pyzarra para USB
+
+ Para esto necesitas dedicar un Pendrive de 650 Mb
+
 
 donwload ()
