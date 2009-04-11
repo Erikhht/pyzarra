@@ -2,6 +2,7 @@
 *Lista de programas y módulos incluidos en Pyzarra
 
 *Resumen:
+
  Ejemplos de programación | 
  Libros free y tutoriales sobre python | 
  Editor HTML (BlueFish) | 
