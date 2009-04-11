@@ -5,7 +5,7 @@
 
  Ejemplos de programación | 
  Libros free y tutoriales sobre python | 
- Editor HTML (BlueFish ) | 
+ Editor HTML (BlueFish) | 
  Python 2.5 con IDLE | 
  Modelador UML (Umbrello ) | 
 
