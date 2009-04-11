@@ -9,6 +9,7 @@ Instalar pyzarra en windows vista:
 2 Segundo te va a crear en la capeta de tu usuario las carpetas:
  .Virtual
   -Machine
+
   -HardDisk
 
            
