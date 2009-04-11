@@ -2,10 +2,24 @@ Pyzarra para Virtual Box
 
 Virtual Box es una maquina virtual de SUN que corre tanto en linux como en windows y permite instalar y probar sistemas operativos, crear discos, usar los perifericos y la red de la pc, como si se tratara de una PC virtual.
 
-Bajar Virtual Box 
+Instalar pyzarra en windows vista:
+ Este sitio no se responsabiliza si después de probar linux no usas mas Windows Vista.
 
-*download (http://www.virtualbox.org/wiki/Downloads)
+1 Bajar e intalar Virtual Box
+2 Segundo te va a crear en la capeta de tu usuario las carpetas:
+  .Virtual
+      HardDisk
+      Machine
+      
+3 Bajar y descomprimir estas carpetas en tu disco rigido
+4 Copias el contenido de esta carpetas a las carpetas del mismo nombre de virtual box
+5 Crear un nueva virtual box pero usando la existente
 
+
+*Bajar Virtual Box de Sun (free)
+download (http://www.virtualbox.org/wiki/Downloads)
+
+*Bajar Archivos de Pyzarra para Virtual Box
 Pyzarra_v030409_VBox
 
-*donwload 
+donwload ()
