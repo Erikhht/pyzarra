@@ -45,7 +45,7 @@ donwload (http://www.adrive.com/public/973c4f9275e9e2ded801f82735b6fe56d21c8de22
 
 3 ejecutar dentro de la carpeta boot 
 
-   bootinst.bar (para windows)
+   bootinst.bat (para windows)
 
    sh bootinst.sh (para linux)
 
