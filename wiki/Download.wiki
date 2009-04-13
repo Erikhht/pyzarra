@@ -7,6 +7,7 @@ Instalar pyzarra en windows vista:
  Este sitio no se responsabiliza si después de probar linux no usas mas Windows Vista.
 
 1 Bajar e intalar Virtual Box
+
 2 Segundo te va a crear en la capeta de tu usuario las carpetas.
 
 Virtual 
