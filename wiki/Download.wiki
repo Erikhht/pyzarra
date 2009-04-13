@@ -39,5 +39,17 @@ donwload (http://www.adrive.com/public/973c4f9275e9e2ded801f82735b6fe56d21c8de22
 
  Para esto necesitas dedicar un Pendrive de 650 Mb
 
+1 Fomatear el pendriver en FAT32
 
-donwload ()
+2 Copiar las carpetas boot y slax
+
+3 ejecutar dentro de la carpeta boot 
+
+   bootinst.bar (para windows)
+
+   sh bootinst.sh (para linux)
+
+Reiniciar la PC o nootebook y setear para que boote desde USB
+
+donwload 
+(http://www.adrive.com/public/2c48c03298cc26ff6fd65f3dfe0a89fdd864166163c680427560d8d128469345.html)
