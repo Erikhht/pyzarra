@@ -11,10 +11,6 @@ Instalar pyzarra en windows vista:
 || .Virtual ||  || 
 || || Machine || 
 || || HardDisk ||
-  -
-
-  -
-
            
 3 Bajar y descomprimir estas carpetas en tu disco rigido
 
