@@ -4,4 +4,4 @@ Esta basado en 4 versiones anteriores de controladores robóticos desarrollados 
 
 Fue creado para utilizarse en conjunto con el software desarrollado en python mediante pyzarra.
 
-Pronto subiremos el esquemático y la placa en su versión finales en estos días.
+Pronto subiremos el esquemático y la placa en su versión final en estos días.
