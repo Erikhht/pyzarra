@@ -54,3 +54,5 @@ Reiniciar la PC o nootebook y setear para que boote desde USB
 
 donwload 
 (http://www.adrive.com/public/2c48c03298cc26ff6fd65f3dfe0a89fdd864166163c680427560d8d128469345.html)
+
+--------------------------------------------------------------------------------------
