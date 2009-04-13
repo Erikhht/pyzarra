@@ -1,0 +1,5 @@
+#labels rbot,microcontroladores,asembler,pyzarra,python,argentina
+Primario es un robot de bajo costo basado en PIC  adaptado al mercado Argentino con componentes que se pueden conseguir en forma local.
+Esta basado en 4 versiones anteriores de controladores robóticos desarrollados a partir de 2004.
+Fue creado para utilizarse en conjunto con el software desarrollado en python mediante pyzarra.
+Pronto subiremos el esquemático y la placa que pensamos probar y dar los toques finales en estos días.
