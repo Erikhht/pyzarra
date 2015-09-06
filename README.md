@@ -15,7 +15,7 @@ En esta primera etapa es aplicado a un curso de robótica de la carrera de ingen
 YA es funcional la placa y el programa Python para controlar por puerto serie y protocolo Robotia de enlace RF, la presentamos en FLISOL2009 Quilmes.
 En la semana entrante publicaremos el circuito y las mascara para que lo puedan bajar y armalo. Es free bajo licencia MIT o Hardward Libre todavia no lo decidimos.
 También los programas en python con pyserial y pygame para el control del puerto serie (que como era de esperar son muy sencillos de hacer).
-En cuanto pueda subo fotos del evento aquí o en http://robotia.com.ar
+En cuanto pueda subo fotos del evento aquí o en ~~robotia.com.ar~~
 
 
 Gracias por la participación, consultas e ideas de todos los que visitaron el estand y asistieron a la conferencia en la FLISOL2009 y gracias al Quilmes LUG (http://quilmeslug.usla.org.ar/wiki/index.php/QuilmesLUG) por invitarnos a apoyar el evento y a la Universidad de Quilmes por ser parte de la organización prestarnos sus instalaciones y a toda la gente que colaboro en la organización, apoyando el ¡¡¡SOFTWARE Y HARDWARE LIBRE!!!.
@@ -24,7 +24,7 @@ Gracias por la participación, consultas e ideas de todos los que visitaron el e
 
 **xx-03-09**
 
-Ya se puede bajar la version de pyzarra para Virtual Box http://code.google.com/p/pyzarra/wiki/Download
+Ya se puede bajar la version de pyzarra para Virtual Box ~~code.google.com/p/pyzarra/wiki/Download~~
 
 ---
 
@@ -61,7 +61,7 @@ http://www.slax.org/
 
 **Podés colaborar:**
 
-> Bajando pyzarra usandolo y haciendonos llegar tu email a pyzarra@8bytes.com.ar
+> Bajando pyzarra usandolo y haciendonos llegar tu email a ~~pyzarra@8bytes.com.ar~~
 > > (formando parte del grupo de usuarios de pyzarra)
 
 
