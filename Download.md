@@ -1,0 +1,60 @@
+**Pyzarra para Virtual Box**
+
+Virtual Box es una maquina virtual de SUN que corre tanto en linux como en windows y permite instalar y probar sistemas operativos, crear discos, usar los perifericos y la red de la pc, como si se tratara de una PC virtual.
+
+Instalar pyzarra en windows vista:
+> Este sitio no se responsabiliza si después de probar linux no usas mas Windows Vista.
+
+1 Bajar e intalar Virtual Box
+
+2 Segundo te va a crear en la capeta de tu usuario las carpetas.
+
+.Virtual
+
+> Machine
+
+> "HardDisk"
+
+3 Bajar y descomprimir estas carpetas en tu disco rigido
+
+4 Copias el contenido de esta carpetas a las carpetas del mismo nombre de virtual box
+
+5 Crear un nueva virtual box pero usando la existente
+
+
+Bajar Virtual Box de Sun (free)
+download (http://www.virtualbox.org/wiki/Downloads)
+
+Bajar Archivos de Pyzarra para Virtual Box
+Pyzarra\_v030409\_VBox
+
+donwload (http://www.adrive.com/public/973c4f9275e9e2ded801f82735b6fe56d21c8de22e29285549f35ff4cf72e081.html) 260 Mb
+
+
+
+
+
+---
+
+
+**Pyzarra para USB**
+
+> Para esto necesitas dedicar un Pendrive de 650 Mb
+
+1 Fomatear el pendriver en FAT32
+
+2 Copiar las carpetas boot y slax
+
+3 ejecutar dentro de la carpeta boot
+
+> bootinst.bat (para windows es necesario entrar a modo consola con ejecutar como administrador)
+
+> sh bootinst.sh (para linux)
+
+Reiniciar la PC o nootebook y setear para que boote desde USB
+
+donwload
+(http://www.adrive.com/public/2c48c03298cc26ff6fd65f3dfe0a89fdd864166163c680427560d8d128469345.html)
+
+
+---

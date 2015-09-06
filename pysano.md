@@ -1,0 +1,60 @@
+Desarrollo de un juego sencillo a modo de practica:
+
+Autor: robotia
+
+**Objetivo:**
+
+Este proyecto apunta a desarrollar algún comportamiento inteligente en un sencillo juego 2D tipo arcade.
+
+**Caracteristicas del juego:**
+
+> Juego en que un objeto se mueve y otro le apunta y dispara los dos con movimiento independiente.
+
+
+**Desarrollado en pygame**
+
+Python 1.8.3 Pygame 2.6.1
+
+Tambien corriendo en Windows Vista y pyzarra 1.0
+
+**Pueden verlo como juego o como simulador de la realidad**
+
+**Objetivo**
+
+1 Un paisano que esta parado en el centro de un campo debe atrapar ñandues con su boleadora.
+2 Los ñandues giran a su alrreder (en principio una circunferencia pero podria se una elipse)
+3 El ñandue pueden cambiar de corredo y aumenta la velocidad maxima cuando menor es la circunferencia
+4 Puede ocultarce por un tiempo detras de un objeto
+5 Puede teletransportace al pasar por un agujero o puede pasarlo por encima siguiendo su camino
+6 El paisano posiciona el punto con el cursor del mouse en la trayectoria en donde quiere arrojar la boleadora, entonce se traza un recta imaginaria que sera la trayectoria de la boleadora que puede ademas disminuir la velocidad a medida que se aleja del paisano (o la complicamos mucho ???). El puede indiciar en cualquier lugar este punto y se dispara al apretar el botón del mouse.
+
+**Inteligencia**
+
+1 Ñandu, seguimiento de la pasarela, control de sentido de movimiento, velocidad, elección de la pasarela,
+elección de teletransportación u ocultarece, reconocimiento que se le arrojo un objeto, decision en consecuencia de la aproximación de este objeto.
+
+**pysano\_v03042009.rar**download ()
+Incluye movimiento con mouse, detector de colisiones y uso de clases propias
+
+**pysano\_211209.rar**download ( http://www.robotia.com.ar/pyzarra/prg/pysano/pysano_211209.rar )
+
+Versión basica con imagenes a modo de ejemplo
+
+
+
+
+Referencias Python:
+
+Bajar la iso o el usb de Pyzarra que contiene la versión
+
+http://www.losersjuegos.com.ar/referencia/videos/python_y_pygame_cafeconf_2007/python_y_pygame_cafeconf_2007.php
+
+http://es.wikipedia.org/wiki/Python
+
+http://www.python.com.ar/moin (página argentina)
+
+http://www.python.org/download/ (baje el python para windows con pygame y funcion ok en WVista)
+
+http://www.pygame.org/news.html
+
+http://iagrupo.wikispaces.com/PYSANO+V1+Python (página original del proyecto)

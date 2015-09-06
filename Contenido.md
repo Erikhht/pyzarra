@@ -1,0 +1,83 @@
+**Lista de programas y módulos incluidos en Pyzarra**
+
+**Resumen:**
+
+> Ejemplos de programación |
+> Libros free y tutoriales sobre python |
+> Editor HTML (BlueFish) |
+> Python 2.5 con IDLE |
+> Modelador UML (Umbrello ) |
+
+**Entretenimientos educativos
+> Planetario - Tabla Periodica - Idioma - Matemáticas - Varios (EduKDE)**
+
+**Juegos**
+
+**Grafico**
+
+**Internet**
+
+> Navegador (Konkeror ) |
+> Cliente de correo (Kmail) |
+> Instant Messenger (Kopete) |
+> Lector de orígenes RSS (Akregator) |
+> Conexión remota  de escritorio (Krdc) |
+
+**Multimedia**
+
+> Webcam (WxCam) |
+> Video Player (KPlayer) |
+> Music Player (JuK) |
+> Audio CD (KsCD) |
+> Grabación CD y DVD (K3b) |
+> Extractor de Audio (KAudioCreator) |
+> Mesclador Audio (KMix) |
+
+**Oficina**
+
+> Procesador de Textos (KWord) |
+> Hoja de cálculo (KSpread) |
+> Presentación de diapositivas (KPresenter) |
+> Visor de PDF (KPDF) |
+> Gestor de información personal (Kontact) |
+
+**Compresores (Ark)**
+
+**Especificaciones tecnicas:**
+
+> Idioma: Español
+
+> Requerimiento: 256 Ram
+
+> Espacio en disco: 650 Mb
+
+> Versión de Slax: v6.1.0
+
+**Module:**
+
+001-core  |
+002-xorg |
+003-desktop |
+004-kdeapps |
+005-koffice |
+006-devel |
+ark-addons-1.0 |
+bluefish-1.0.7 |
+kdeedu |
+pygame-1.8.1.-i489 |
+pykde-3.16.1 |
+python-2.5.2-4 |
+spanish |
+tcl-8.5.5-1 |
+tk-8.5.5-1 |
+wxcam-0-9-9 |
+wxwidgets-2-8-9 |
+
+**Pendientes**
+
+> editra - Editor de python con autocompletar
+
+> mysql - Base de datos
+
+> eagle - Editor de placas electrónicas
+
